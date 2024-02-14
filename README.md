@@ -12,7 +12,7 @@ I'm a passionate **Frontend Developer** from India, with a love for coding and b
 
 ## 🚀 Projects
 
-1. **Maghunt (https://github.com/satishpwebdev/maghuntui):** Short description of Project 1.
+1. **Maghunt https://github.com/satishpwebdev/maghuntui:** Short description of Project 1.
 2. **Taskui (Link to Project 2):** Short description of Project 2.
    <!-- Add more projects as needed -->
 <!---
