@@ -1,4 +1,4 @@
-# Hello, I'm Satish Prajapti! 👋
+# Hello, I'm Satish Prajapti! 👋 ![Wave Hand](https://github.com/your-username/your-repo-name/raw/main/wave-hand.gif)
 
 I'm a passionate Frontend Developer from India, with a love for coding and building things. Here you'll find some of my projects and contributions.
 
