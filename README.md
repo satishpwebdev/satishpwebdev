@@ -1,10 +1,10 @@
 # Hello, I'm Satish Prajapti! 👋 
 
-I'm a passionate ##Frontend Developer from India, with a love for coding and building things. Here you'll find some of my projects and contributions.
+I'm a passionate **Frontend Developer** from India, with a love for coding and building things. Here you'll find some of my projects and contributions.
 
 ## 🔧 Technologies & Tools
 
-- JavaScript (Next.js,Node.js, React.js)
+- JavaScript (Next.js, Node.js, React.js)
 - TypeScript, HTML, CSS
 - Tailwind CSS
 
