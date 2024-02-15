@@ -12,8 +12,8 @@ I'm a passionate <span style="color:yellow">**Frontend Developer**</span> from I
 
 ## 🚀 Projects
 
-1. **[Maghunt](https://github.com/satishpwebdev/maghuntui):** .
-2. **Taskui (Link to Project 2):** Short description of Project 2.
+1. **[Maghunt](https://github.com/satishpwebdev/maghuntui):**.
+2. **[Taskui](https://github.com/satishpwebdev/taskui):**.
    <!-- Add more projects as needed -->
 <!---
 ## 📫 How to Reach Me
