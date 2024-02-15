@@ -1,6 +1,6 @@
 # Hello, I'm Satish Prajapati! 👋 
 
-I'm a passionate **Frontend Developer** from India, with a love for coding and building things. Here you'll find some of my projects and contributions.
+I'm a passionate <span style="color:yellow">**Frontend Developer**</span> from India, with a love for coding and building things. Here you'll find some of my projects and contributions.
 
 ## 🔧 Technologies & Tools
 
