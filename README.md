@@ -9,12 +9,13 @@ I'm a passionate <span style="color:yellow">**Frontend Developer**</span> from I
 - Tailwind CSS
 
 
-
+<!--
 ## 🚀 Projects
 
 1. **[Maghunt](https://github.com/satishpwebdev/maghuntui):**.
 2. **[Taskui](https://github.com/satishpwebdev/taskui):**.
-   <!-- Add more projects as needed -->
+ -->
+  <!-- Add more projects as needed -->
 <!---
 ## 📫 How to Reach Me
 
